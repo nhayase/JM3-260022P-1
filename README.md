@@ -1,4 +1,4 @@
-# "Optical study of beyond EUV mask and mirrors".
+# Optical study of beyond EUV mask and mirrors
 
 Here is our data storage for the simulations to proof our reproductivity.
 
