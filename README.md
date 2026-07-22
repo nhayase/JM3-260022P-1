@@ -1,7 +1,10 @@
 # "Optical study of beyond EUV mask and mirrors".
 
 Here is our storage for the simulation data to proof our reproductivity.
+
 Our paper is stored as following website. 
+
+https://doi.org/10.31224/7648
 
 ## Comment
 
